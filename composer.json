@@ -1,5 +1,5 @@
 {
-    "name": "league/factory-muffin-faker",
+    "name": "lubobill1990/factory-muffin-faker",
     "description": "The goal of this package is to wrap faker to make it super easy to use with factory muffin.",
     "keywords": ["testing", "factory", "faker"],
     "homepage": "http://factory-muffin.thephpleague.com/",
