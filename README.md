@@ -1,3 +1,5 @@
+This package is forked from thephpleague/factory-muffin-faker, because the Faker version is not updated.
+
 Factory Muffin Faker 2.0
 ========================
 
